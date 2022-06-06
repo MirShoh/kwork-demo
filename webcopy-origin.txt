@@ -1,0 +1,244 @@
+Uri: https://yodik.uz/
+File Name: C:\Downloaded Web Sites\yodik.uz\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700&subset=cyrillic
+File Name: C:\Downloaded Web Sites\yodik.uz\css.css
+Content Type: text/css
+
+Uri: https://yodik.uz/css/styles.css
+File Name: C:\Downloaded Web Sites\yodik.uz\css\styles.css
+Content Type: text/css
+
+Uri: https://yodik.uz/img/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://yodik.uz/tape
+File Name: C:\Downloaded Web Sites\yodik.uz\tape.html
+Content Type: text/html
+
+Uri: https://yodik.uz/termo
+File Name: C:\Downloaded Web Sites\yodik.uz\termo.html
+Content Type: text/html
+
+Uri: https://yodik.uz/package
+File Name: C:\Downloaded Web Sites\yodik.uz\package.html
+Content Type: text/html
+
+Uri: https://yodik.uz/paper
+File Name: C:\Downloaded Web Sites\yodik.uz\paper.html
+Content Type: text/html
+
+Uri: https://yodik.uz/recycle
+File Name: C:\Downloaded Web Sites\yodik.uz\recycle.html
+Content Type: text/html
+
+Uri: https://yodik.uz/about
+File Name: C:\Downloaded Web Sites\yodik.uz\about.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/ravshan_yodik/
+File Name: C:\Downloaded Web Sites\yodik.uz\ravshan_yodik\index.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/ravshan.yodik.3
+File Name: C:\Downloaded Web Sites\yodik.uz\ravshan.yodik.3.html
+Content Type: text/html
+
+Uri: https://t.me/rovshanyodik
+File Name: C:\Downloaded Web Sites\yodik.uz\rovshanyodik.html
+Content Type: text/html
+
+Uri: https://yodik.uz/js/wow.min.js
+File Name: C:\Downloaded Web Sites\yodik.uz\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://yodik.uz/js/jquery.js
+File Name: C:\Downloaded Web Sites\yodik.uz\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru_RU
+File Name: C:\Downloaded Web Sites\yodik.uz\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://yodik.uz/img/logoblack.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\logoblack.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/location.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\location.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/phone.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/mail.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\mail.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/el1.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\el1.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/el2.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\el2.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/el3.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\el3.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/el4.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\el4.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/el5.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\el5.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/el6.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\el6.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/social2.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\social2.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/social3.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\social3.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/logo.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/tg.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/top.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\top.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/main.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\main.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/yodik.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\yodik.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/str1-1.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\str1-1.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/str3.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\str3.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/str1.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\str1.png
+Content Type: image/png
+
+Uri: https://yodik.uz/calc
+File Name: C:\Downloaded Web Sites\yodik.uz\calc.html
+Content Type: text/html
+
+Uri: https://yodik.uz/calccolor
+File Name: C:\Downloaded Web Sites\yodik.uz\calccolor.html
+Content Type: text/html
+
+Uri: https://yodik.uz/calc-1clap
+File Name: C:\Downloaded Web Sites\yodik.uz\calc-1clap.html
+Content Type: text/html
+
+Uri: https://yodik.uz/img/pack-11.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\pack-11.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/pack-2.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\pack-2.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/pack-13.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\pack-13.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/pack-4.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\pack-4.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/rec-1.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\rec-1.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/rec-2.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\rec-2.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/rec-3.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\rec-3.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/about1.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\about1.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/about2.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\about2.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/about3.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\about3.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/about4.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\about4.png
+Content Type: image/png
+
+Uri: https://yodik.uz/img/about5.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\about5.png
+Content Type: image/png
+
+Uri: https://yodik.uz/css/form-style.css
+File Name: C:\Downloaded Web Sites\yodik.uz\css\form-style.css
+Content Type: text/css
+
+Uri: https://yodik.uz/img/box.svg
+File Name: C:\Downloaded Web Sites\yodik.uz\img\box.svg
+Content Type: image/svg+xml
+
+Uri: https://yodik.uz/img/box.png
+File Name: C:\Downloaded Web Sites\yodik.uz\img\box.png
+Content Type: image/png
+
